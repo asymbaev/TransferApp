@@ -1,0 +1,3 @@
+p2p money tranasfer app internationally. Kind of open source alternative to Western Union or Moneygram etc. Description: Let's say for example a person from A country wants to send money to a person to a B country, when sending with current systems there are many fees and taxes for large amounts of money. Here is the solution, person A can
+directly contact the person B without third party companies and banks. How is the algorithm should work. The platfrom should check if there's user A sending same amount to user B then, platform should connect them. They can communicate to arrange a transfer or they could use our system to transfer which would be more secure for 
+both parties. 
